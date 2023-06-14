@@ -122,7 +122,7 @@ content:
       - Hiking
 
       I also love nature and landscapes like this one:
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
