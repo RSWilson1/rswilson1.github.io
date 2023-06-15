@@ -75,6 +75,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: East Genomics
+        link: https://eastgenomics.org.uk/
+        # link_text: Genomics England
+        sub_title: Trainee Clinical Bioinformatician
+        caption: September 2021 - Present
+        quote: >
+          NHS Scientist Training Programme, specialising in bioinformatics.
+        description: | # this will include new lines to allow paragraphs
+            At East Genomics, I have worked on multiple development projects such as: an interactive dashboard to monitor spending [Ploutos](https://github.com/eastgenomics/Ploutos "Interactive dashboard for monitoring cloud spending.").
+            In addition, I have also been involved in running bioinformatics pipelines for returning patient data.
+            In tandem, I also have been studying for a MSc in Clinical bioinformatics at the University of Manchester.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
         title: Genomics England
         link: https://www.genomicsengland.co.uk/
         # link_text: Genomics England
