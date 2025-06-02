@@ -42,11 +42,11 @@ linkedin_username: robert-wilson-612387a0
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/FOG_GM_2401_4642 LowSq.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Robert and I'm a trainee clinical bioinformatician currently working for NHS (East Genomics).
-  As well as running bioinformatics workflows, I also have experience making bespokes web apps (such as an interactive dashboard to monitor spending) and tailored python scripts for manipulating datasets.
+  Hi, my name's Robert and I'm a Registered Clinical Scientist at NHS (East Genomics).
+  My experience includes not only running complex bioinformatics workflows but also spearheading the development of bespoke web applications, such as an interactive dashboard for monitoring spending. I've also been instrumental in architecting and implementing clinical decision support software for our cancer pipelines, alongside providing expert guidance and meticulously reviewing the work of trainees.
   I have a strong background in genomics with an integrated master's in Plant Sciences with a focus on genomics and transcriptomics.
 
   I am most skilled in: <mark>Python</mark> <mark>R</mark> <mark>Cloud-computing with DNAnexus</mark> and <mark>Genomics</mark>
@@ -78,14 +78,23 @@ content:
         title: East Genomics
         link: https://eastgenomics.org.uk/
         # link_text: Genomics England
-        sub_title: Trainee Clinical Bioinformatician
-        caption: September 2021 - Present
+        sub_title: Clinical Bioinformatician (Trainee)
+        caption: September 2021 - September 2024
         quote: >
           NHS Scientist Training Programme, specialising in bioinformatics.
         description: | # this will include new lines to allow paragraphs
             At East Genomics, I have worked on multiple development projects such as: an interactive dashboard to monitor spending [Ploutos](https://github.com/eastgenomics/Ploutos "Interactive dashboard for monitoring cloud spending.").
             In addition, I have also been involved in running bioinformatics pipelines for returning patient data.
             In tandem, I also have been studying for a MSc in Clinical bioinformatics at the University of Manchester.
+      - layout: left
+        title: East Genomics
+        link: https://eastgenomics.org.uk/
+        sub_title: Registered Clinical Scientist
+        caption: September 2024 - Present
+        quote: >
+          Leading clinical bioinformatics services and development within East Genomics.
+        description: | # this will include new lines to allow paragraphs
+          In my current role as a Registered Clinical Scientist, I am pivotal in advancing our cancer diagnostic capabilities. This includes leading the strategic development and implementation of cutting-edge clinical decision support software for our cancer pipelines. Furthermore, I play a key role in shaping the next generation of bioinformaticians by providing comprehensive guidance, mentorship, and rigorous review of work from trainees.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
