@@ -45,7 +45,7 @@ linkedin_username: robert-wilson-612387a0
 # about_title: About Me
 about_profile_image: images/FOG_GM_2401_4642 LowSq.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Robert and I'm a trainee clinical bioinformatician currently working for NHS (East Genomics).
+  Hi, my name's Robert and I'm a Clinical Scientist (bioinformatician) currently working for NHS (East Genomics).
   As well as running bioinformatics workflows, I also have experience making bespokes web apps (such as an interactive dashboard to monitor spending) and tailored python scripts for manipulating datasets.
   I have a strong background in genomics with an integrated master's in Plant Sciences with a focus on genomics and transcriptomics.
 
@@ -78,14 +78,30 @@ content:
         title: East Genomics
         link: https://eastgenomics.org.uk/
         # link_text: Genomics England
+        sub_title: Clinical Scientist (Bioinformatics)
+        caption: September 2024 - Present
+        quote: >
+          Clinical Scientist (Bioinformatics) working on in-service projects and improving workflows.
+        description: | # this will include new lines to allow paragraphs
+            I am currently involved in various projects aimed at enhancing the efficiency and effectiveness of bioinformatics services within the NHS.
+            My work includes the development submitting clinical variants to public databases such as ClinVar, and improving existing bioinformatics pipelines to ensure they meet the highest standards of accuracy and reliability.
+            As part of my role I lead the in-house training for programming and data analysis, helping to upskill my colleagues in these essential areas.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: East Genomics
+        link: https://eastgenomics.org.uk/
+        # link_text: Genomics England
         sub_title: Trainee Clinical Bioinformatician
-        caption: September 2021 - Present
+        caption: September 2021 - September 2024
         quote: >
           NHS Scientist Training Programme, specialising in bioinformatics.
         description: | # this will include new lines to allow paragraphs
             At East Genomics, I have worked on multiple development projects such as: an interactive dashboard to monitor spending [Ploutos](https://github.com/eastgenomics/Ploutos "Interactive dashboard for monitoring cloud spending.").
             In addition, I have also been involved in running bioinformatics pipelines for returning patient data.
-            In tandem, I also have been studying for a MSc in Clinical bioinformatics at the University of Manchester.
+            In tandem, I also gained a MSc in Clinical bioinformatics (distinction) at the University of Manchester.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
